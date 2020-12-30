@@ -19,7 +19,8 @@ permalink: /portfolio/
 
 My first [Streamlit](https://www.streamlit.io/) web app is an NFL receiver dashboard that runs analyses on any wide receiver or tight end that has logged at least 30 targets in the 2020 NFL season. Player info, a game log, and six visualizations are all generated solely using [nflfastR](https://www.nflfastr.com/) data
 <br>
-<center><img src="images/fb-food-trends.png"></center>
+<center><img src="/assets/images/dashboard1.png"></center>
+<center><img src="/assets/images/dashboard2.png"></center>
 <br>
 
 ---
