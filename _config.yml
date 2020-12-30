@@ -23,9 +23,9 @@ remote_theme: "mmistakes/minimal-mistakes"
 locale                   : "lt-LT"
 title                    : "Max Bolger"
 title_separator          : "|"
-subtitle                 : "With a little effort"
+subtitle                 : ""
 name                     : "Max Bolger"
-description              : "My data science potfolio consisting of my work and blog posts"
+description              : "My personal data science portfolio"
 url                      : "https://maxbolger.github.io"
 #baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "maxbolger/maxbolger.github.io"
@@ -90,9 +90,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "G-F9LRJ2CRLT"
+    tracking_id          :
     anonymize_ip         : # true, false (default)
 
 
@@ -101,7 +101,7 @@ author:
   name             : "Max Bolger"
   avatar           : "/assets/images/avatar.jpg"
   bio              :  >- 
-   iOS Developer & ML practitioner
+   Junior standing undergrad at Hamline University majoring in Computational Data Science with minors in Business Analytics and Economics
   location         : "St. Paul, Minnesota"
   links:
     - label: "Website"
