@@ -22,6 +22,7 @@ My first [Streamlit](https://www.streamlit.io/) web app is an NFL receiver dashb
 <center><img src="/assets/images/dashboard1.png"></center>
 <center><img src="/assets/images/dashboard2.png"></center>
 <br>
+
 ---
 
 ## Classifying Customer Subscription Preferences - A Case Study for the Hamline University Marketing Analytics Clinic (HUMAC)
