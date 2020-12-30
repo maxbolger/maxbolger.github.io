@@ -62,7 +62,9 @@ permalink: /portfolio/
 
 <div style="text-align: justify">I run a sports analytics twitter account dedicated towards DFS/sports betting and general sports analytics. I post analyses, viz, and models almost daily. Click the badge above to give me a follow! Below are links to some of my favorite posts, and pictures of my favorite viz.</div>
 <br>
-<center><img src="/assets/images/fb-food-trends.png"></center>
+<left><img src="/assets/images/viz1.jpg"></left>
+<center><img src="/assets/images/viz2.jpg"></center>
+<right><img src="/assets/images/viz3.jpg"></right>
 <br>
 
 ---
