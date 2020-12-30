@@ -4,8 +4,8 @@ excerpt: "About this site and my plans for it."
 date:   2020-12-30
 permalink: /my-first-post/
 header:
-  teaser: /assets/images/new-year.jpg
-  overlay_image: /assets/images/new-year.jpg
+  teaser: /assets/images/code.jpg
+  overlay_image: /assets/images/code.jpg
 ---
 
 Thank you for visiting my website! My name is Max Bolger and I am a junior standing undergrad at Hamline University in St. Paul, Minnesota. I am majoring in Computational Data Science with minors in Business Analytics and Economics. This website will be my data science portfolio where I document my work and write about it! This website will have four main pages, which are described below:
