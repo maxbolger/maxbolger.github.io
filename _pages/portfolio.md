@@ -27,7 +27,7 @@ My first [Streamlit](https://www.streamlit.io/) web app is an NFL receiver dashb
 
 ## Classifying Customer Subscription Preferences - A Case Study for the Hamline University Marketing Analytics Clinic (HUMAC)
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1l1R818bNbiap4NSZWMKIwx58At7gLv-P)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maxbolger/HUMAC_Application)
 
 [<img align="left" alt="hu" width="200px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Fcheesebrowmusic.com%2Fwp-content%2Fuploads%2F2018%2F06%2Fsos-partner-logo-hamline-university_2x.png%3Fw%3D3840&f=1&nofb=1" />][hu]
@@ -41,27 +41,26 @@ This is the case study for my application to the HUMAC data scientist role. We w
 ---
 ## Python Data Science Tutorial with NFL Play-by-Play Data
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1HOYQHEpTsrBnjwFIOKjRHGQzqOqzPrPv#scrollTo=cisADfmoMS4f)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1HOYQHEpTsrBnjwFIOKjRHGQzqOqzPrPv)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maxbolger/nflfastR-Python-Tutorial)
 
 I created a tutorial on how to analyze NFL play-by-play data (courtesy of [nflfastR](https://www.nflfastr.com/)) using python and its data science resources. This tutorial covers basic python syntax, exploratory data analysis (EDA), one-hot encoding, data visualization, creating a function, and more!
 <br>
-<center><img src="images/fb-food-trends.png"></center>
 <br>
 
 ---
 ## Sleeper API Tutorial
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maxbolger/nflfastR-Python-Tutorial)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1N6q25lnZDfs8d6w9lD_Qja19GFshbKIy)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maxbolger/Sleeper-API-Tutorial)
 
 I created a tutorial on how to utilize the [Sleeper](https://sleeper.app) API for users to obtain data and run analyses on their fantasy football league. It covers basic python syntax and utilizes multiple packages.
 <br>
-<center><img src="images/fb-food-trends.png"></center>
 <br>
 
 ## My Sports Analytics Twitter Account
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mnpykings?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmaxbolger&screen_name=mnpykings)
+
 I run a sports analytics twitter account dedicated towards DFS/sports betting and general sports analytics. I post analyses, viz, and models almost daily. Click the badge above to give me a follow! Below are links to some of my favorite posts, and pictures of my favorite viz.
 <br>
 <left><img src="/assets/images/viz1.jpg"></left>
@@ -70,4 +69,3 @@ I run a sports analytics twitter account dedicated towards DFS/sports betting an
 <br>
 
 ---
-<center>© 2020 Max Bolger. Powered by Jekyll and the Minimal Theme.</center>
