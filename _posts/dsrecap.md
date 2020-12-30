@@ -1,0 +1,41 @@
+---
+title:  "My 2020 Data Science Recap!"
+excerpt: "How I got started on this awesome journey + my favorite personal projects of the year!"
+date:   2020-12-30
+header:
+  teaser: /assets/images/new-year.jpg
+  overlay_image: /assets/images/new-year.jpg
+---
+
+It was a rainy, dark, fall afternoon in 2019. I sat in my room with nothing to do. Class was over, homework completed, 
+and no major sports were on tv to consume my evening (it was Wednesday, still one more day until Thursday Night Football).
+I had been thinking of something for a while now, and as I lie on my bed, staring at the ceiling, I figured it was time to 
+turn this *thinking* into *doing*. There wasn't a more perfect night for what I had planned so long to do, and I figured, 
+"If not now, when?". So, I opened my laptop, hopped on Youtube, and searched "Python tutorial". I finally brought myself to it. 
+I was going to learn how to code.
+
+---
+
+Fast forward a year and here we are. I code pretty much every day and plan to pursue a career out of it. I genuinely enjoy it and
+have done things I never thought I would be able to that one fall night when I felt like banging my head on the wall, struggling 
+with the python tutroial wondering what the hell I had just gotten myself into. I persisted, however, and gradually learned into
+the spring of 2020. I really hit my stride in terms of progression when COVID-19 took over the world. With nothing to do inside 
+during quarantine, I dedicated myself to learning as much python as I could, which really helped the process. Conveniently, 
+spring of 2020 was when my University introduced their Computational Data Science program, which motivated me even more. In fact, 
+once I found out about this program I went straight to student services, dropped all four of my classes (this was only the second 
+day of the semester) and reregistered for CDS classes to start my progress within the program. The timing really could not have
+been more perfect! I still have infinite room for growth and improvement and am far from where I want myself to be, but still pleased 
+with my progress one year in.
+
+---
+
+I figured it would be fun to share my favorite projects during this first year of my coding expereince. So, without further ado, lets get
+into it!
+
+1. NFL Receiver Dashboard
+
+2. My [twitter](https://twitter.com/mnpykings) account
+
+3. Python Data Science Tutorial using NFL Play-by-Play Data
+
+4. This website!
