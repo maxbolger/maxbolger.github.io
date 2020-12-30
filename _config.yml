@@ -21,14 +21,14 @@
 remote_theme: "mmistakes/minimal-mistakes"
 
 locale                   : "lt-LT"
-title                    : "Intelligent Apps"
+title                    : "Max Bolger"
 title_separator          : "|"
 subtitle                 : "With a little effort"
-name                     : "Arminas Ruzgas"
-description              : "A blog that shows you how to boost the intelligence of the iOS applications"
-url                      : "https://arminasr.github.io"
+name                     : "Max Bolger"
+description              : "My data science potfolio consisting of my work and blog posts"
+url                      : "https://maxbolger.github.io"
 #baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "arminasr/arminasr.github.io"
+repository               : "maxbolger/maxbolger.github.io"
 teaser                   : "/assets/images/teaser.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -36,7 +36,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : "arminasr" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "maxbolger" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -68,14 +68,14 @@ google:
   instant_search         : # false (default), true
 
 # SEO Related
-google_site_verification : "v_tYPmb_n3zXfJ1egbbrLBNvLil0qTrFvDjVsftZgOs"
+google_site_verification : 
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "arminas_r"
+  username               : "maxbolger"
 facebook:
   username               :
   app_id                 :
@@ -98,52 +98,40 @@ analytics:
 
 # Site Author
 author:
-  name             : "Arminas Ruzgas"
+  name             : "Max Bolger"
   avatar           : "/assets/images/avatar.jpg"
   bio              :  >- 
    iOS Developer & ML practitioner
-  location         : "Vilnius, Lithuania"
+  location         : "St. Paul, Minnesota"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/arminas_r"
+      url: "https://twitter.com/mnpykings"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/aruzgas/"
+      url: "https://www.linkedin.com/in/max-bolger/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/arminasr/"
+      url: "https://github.com/maxbolger/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ruzgas.a@gmail.com"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "mailto:mbolger01@hamline.edu"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/arminas_r"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://twitter.com/mnpykings"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/max-bolger/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/arminasr/"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://github.com/maxbolger/"
 
 
 # Reading Files
