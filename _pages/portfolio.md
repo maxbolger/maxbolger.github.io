@@ -32,7 +32,7 @@ permalink: /portfolio/
 
 <div style="text-align: justify">Talk about this.</div>
 <br>
-<center><img src="images/customer.png"></center>
+<center><img src="/assets/images/customer.png"></center>
 <br>
 
 ---
