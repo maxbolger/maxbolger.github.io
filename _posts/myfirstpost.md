@@ -2,6 +2,7 @@
 title:  "My first post!"
 excerpt: "About this site and my plans for it."
 date:   2020-12-30
+permalink: /myfirstpost/
 header:
   teaser: /assets/images/new-year.jpg
   overlay_image: /assets/images/new-year.jpg
