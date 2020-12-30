@@ -3,8 +3,6 @@ title:  "Portfolio"
 date:   2020-12-30
 permalink: /portfolio/
 ---
-
-# Portfolio
 ---
 ## NFL Reiceiver Dashboard Using Streamlit
 
@@ -19,7 +17,7 @@ permalink: /portfolio/
 [streamlit]: https://www.streamlit.io/
 [nflfastR]: https://mrcaseb.github.io/nflfastR/
 
-<div style="text-align: justify">Talk about this.</div>
+My first [Streamlit](https://www.streamlit.io/) web app is an NFL receiver dashboard that runs analyses on any wide receiver or tight end that has logged at least 30 targets in the 2020 NFL season. Player info, a game log, and six visualizations are all generated solely using [nflfastR](https://www.nflfastr.com/) data
 <br>
 <center><img src="images/fb-food-trends.png"></center>
 <br>
@@ -30,7 +28,10 @@ permalink: /portfolio/
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/detect-food-trends-facebook.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maxbolger/HUMAC_Application)
 
-<div style="text-align: justify">Talk about this.</div>
+[<img align="left" alt="hu" width="200px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Fcheesebrowmusic.com%2Fwp-content%2Fuploads%2F2018%2F06%2Fsos-partner-logo-hamline-university_2x.png%3Fw%3D3840&f=1&nofb=1" />][hu]
+
+[hu]: https://www.hamline.edu/
+This is the case study for my application to the HUMAC data scientist role. We were given customer order and survey data from a Walmart+ pilot program and were to report anything we could find. I ran some EDA and created a multinomial logistic regression that classified a customers survey response given their order behavior.
 <br>
 <center><img src="/assets/images/customer.png"></center>
 <br>
@@ -41,7 +42,7 @@ permalink: /portfolio/
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1HOYQHEpTsrBnjwFIOKjRHGQzqOqzPrPv#scrollTo=cisADfmoMS4f)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maxbolger/nflfastR-Python-Tutorial)
 
-<div style="text-align: justify">I created a tutorial on how to analyze NFL play-by-play data using python and its data science resources. This tutorial covers basic python syntax, exploratory data analysis (EDA), one-hot encoding, data visualization, creating a function, and more!</div>
+I created a tutorial on how to analyze NFL play-by-play data (courtesy of [nflfastR](https://www.nflfastr.com/)) using python and its data science resources. This tutorial covers basic python syntax, exploratory data analysis (EDA), one-hot encoding, data visualization, creating a function, and more!
 <br>
 <center><img src="images/fb-food-trends.png"></center>
 <br>
@@ -51,7 +52,7 @@ permalink: /portfolio/
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1f32gj5IYIyFipoINiC8P3DvKat-WWLUK)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maxbolger/nflfastR-Python-Tutorial)
 
-<div style="text-align: justify">I created a tutorial on how to utilize the [Sleeper](https://sleeper.app) API for users to obtain data and run analyses on their fantasy football league. It covers basic python syntax and utilizes multiple packages.</div>
+I created a tutorial on how to utilize the [Sleeper](https://sleeper.app) API for users to obtain data and run analyses on their fantasy football league. It covers basic python syntax and utilizes multiple packages.
 <br>
 <center><img src="images/fb-food-trends.png"></center>
 <br>
@@ -59,8 +60,7 @@ permalink: /portfolio/
 ## My Sports Analytics Twitter Account
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mnpykings?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmaxbolger&screen_name=mnpykings)
-
-<div style="text-align: justify">I run a sports analytics twitter account dedicated towards DFS/sports betting and general sports analytics. I post analyses, viz, and models almost daily. Click the badge above to give me a follow! Below are links to some of my favorite posts, and pictures of my favorite viz.</div>
+I run a sports analytics twitter account dedicated towards DFS/sports betting and general sports analytics. I post analyses, viz, and models almost daily. Click the badge above to give me a follow! Below are links to some of my favorite posts, and pictures of my favorite viz.
 <br>
 <left><img src="/assets/images/viz1.jpg"></left>
 <center><img src="/assets/images/viz2.jpg"></center>
