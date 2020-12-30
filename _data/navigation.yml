@@ -1,3 +1,7 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Resume"
+    url: /resume/
+  - title: "Blog Posts"
+    url: /blog/
