@@ -27,7 +27,7 @@ My first [Streamlit](https://www.streamlit.io/) web app is an NFL receiver dashb
 
 ## Classifying Customer Subscription Preferences - A Case Study for the Hamline University Marketing Analytics Clinic (HUMAC)
 
-[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1l1R818bNbiap4NSZWMKIwx58At7gLv-P)
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1l1R818bNbiap4NSZWMKIwx58At7gLv-P#offline=true&sandboxMode=true)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maxbolger/HUMAC_Application)
 
 [<img align="left" alt="hu" width="200px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Fcheesebrowmusic.com%2Fwp-content%2Fuploads%2F2018%2F06%2Fsos-partner-logo-hamline-university_2x.png%3Fw%3D3840&f=1&nofb=1" />][hu]
