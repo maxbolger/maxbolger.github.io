@@ -18,9 +18,6 @@ Proficient with python and its data science libraries including pandas, numpy, m
 [<img align="left" alt="Sci-Kit Learn" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />][scikit]
 [<img align="middle" alt="streamlit" width="60px" src="https://assets.website-files.com/5dc3b47ddc6c0c2a1af74ad0/5e181828ba9f9e92b6ebc6e7_RGB_Logomark_Color_Light_Bg.png" />][streamlit]
 
-<br>
-<br>
-
 ---
 
 In my free time, I love to bet on sports <img align="middle" alt="cube" width="40px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fvignette4.wikia.nocookie.net%2Flogopedia%2Fimages%2F0%2F07%2FDraftkings.png%2Frevision%2Flatest%2Fscale-to-width-down%2F250%3Fcb%3D20150926012315&f=1&nofb=1" /> play kendama 
@@ -36,5 +33,4 @@ In my free time, I love to bet on sports <img align="middle" alt="cube" width="4
 [seaborn]: https://seaborn.pydata.org/
 [numpy]: https://numpy.org/
 [jupyter]: https://jupyter.org/
-[statsmodels]: https://www.statsmodels.org/stable/index.html
 [streamlit]: https://www.streamlit.io/
