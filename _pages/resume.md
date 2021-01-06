@@ -1,7 +1,5 @@
 ---
 title:  "Resume"
 date:   2020-12-30
-permalink: /resume/
+permalink: /MaxBolgerResume.pdf/
 ---
-
-Resume here.
