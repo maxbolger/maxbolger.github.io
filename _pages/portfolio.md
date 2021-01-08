@@ -78,7 +78,7 @@ I created a tutorial on how to utilize the [Sleeper](https://sleeper.app) API fo
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/mnpykings?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmaxbolger&screen_name=mnpykings)
 
-I run a sports analytics twitter account dedicated towards DFS/sports betting and general sports analytics. I post analyses, viz, and models almost daily. Click the badge above to give me a follow! Below are links to some of my favorite posts, and pictures of my favorite viz.
+I run a sports analytics twitter account dedicated towards DFS/sports betting and general sports analytics. I post analyses, viz, and models almost daily. Click the badge above to give me a follow! Below are two of my recent viz!
 <br>
 <left><img src="/assets/images/viz1.png"></left>
 <center><img src="/assets/images/viz2.png"></center>
