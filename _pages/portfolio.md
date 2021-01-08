@@ -65,7 +65,6 @@ I run a sports analytics twitter account dedicated towards DFS/sports betting an
 <br>
 <left><img src="/assets/images/viz1.jpg"></left>
 <center><img src="/assets/images/viz2.jpg"></center>
-<right><img src="/assets/images/viz3.jpg"></right>
 <br>
 
 ---
