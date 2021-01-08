@@ -71,8 +71,8 @@ I created a tutorial on how to utilize the [Sleeper](https://sleeper.app) API fo
 
 I run a sports analytics twitter account dedicated towards DFS/sports betting and general sports analytics. I post analyses, viz, and models almost daily. Click the badge above to give me a follow! Below are links to some of my favorite posts, and pictures of my favorite viz.
 <br>
-<left><img src="/assets/images/viz1.jpg"></left>
-<center><img src="/assets/images/viz2.jpg"></center>
+<left><img src="/assets/images/viz1.png"></left>
+<center><img src="/assets/images/viz2.png"></center>
 <br>
 
 ---
