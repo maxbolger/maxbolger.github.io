@@ -25,6 +25,14 @@ My first [Streamlit](https://www.streamlit.io/) web app is an NFL receiver dashb
 
 ---
 
+## 2021 NFL Big Data Bowl Entry - *Lockdown Coverage and Ball Skills: A Tale of Two Cities*
+
+[![View on Kaggle](https://img.shields.io/badge/Kaggle-View_on_Kaggle-blue?logo=Kaggle)](https://www.kaggle.com/mjegle/the-geometry-of-lockdown-coverage-and-ball-skills)
+
+I teamed up with two friends to take on the 2021 NFL Big Data Bowl! We leveraged multiple geometric factors in order to derive singal from the NFL secondary using two different metrics. Click the badge above to read our paper and view the code.
+
+---
+
 ## Classifying Customer Subscription Preferences - A Case Study for the Hamline University Marketing Analytics Clinic (HUMAC)
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1l1R818bNbiap4NSZWMKIwx58At7gLv-P#offline=true&sandboxMode=true)
