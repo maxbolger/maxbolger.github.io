@@ -29,7 +29,16 @@ My first [Streamlit](https://www.streamlit.io/) web app is an NFL receiver dashb
 
 [![View on Kaggle](https://img.shields.io/badge/Kaggle-View_on_Kaggle-blue?logo=Kaggle)](https://www.kaggle.com/mjegle/the-geometry-of-lockdown-coverage-and-ball-skills)
 
+[<img align="left" alt="bdb" width="60px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Foperations.nfl.com%2Fmedia%2F3608%2Fbig-data-bowl-new-logo_750.png%3Fmode%3Dpad%26rnd%3D131956651790000000&f=1&nofb=1" />][bdb]
+
+[<img align="left" alt="ngs" width="200px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fedge-operations.nfl.com%2Fmedia%2F3387%2Fnext-gen-stats-logo.png%3Fmode%3Dmax%26width%3D995&f=1&nofb=1" />][ngs]
+
+
 I teamed up with two friends to take on the 2021 NFL Big Data Bowl! We leveraged multiple geometric factors in order to derive singal from the NFL secondary using two different metrics. Click the badge above to read our paper and view the code.
+
+[bdb]: https://www.kaggle.com/c/nfl-big-data-bowl-2021/
+[ngs]: https://nextgenstats.nfl.com/
+
 
 ---
 
