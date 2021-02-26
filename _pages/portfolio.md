@@ -34,7 +34,7 @@ My first [Streamlit](https://www.streamlit.io/) web app is an NFL receiver dashb
 [<img align="left" alt="ngs" width="200px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fedge-operations.nfl.com%2Fmedia%2F3387%2Fnext-gen-stats-logo.png%3Fmode%3Dmax%26width%3D995&f=1&nofb=1" />][ngs]
 
 
-I teamed up with two friends to take on the 2021 NFL Big Data Bowl! We leveraged multiple geometric factors in order to derive singal from the NFL secondary using two different metrics. Click the badge above to read our paper and view the code.
+I teamed up with two friends to take on the 2021 NFL Big Data Bowl! We leveraged NFL Next Gen Stats tracking data and its plethora of geometric factors to quantify the NFL secondary through two different metrics using machine learning. Click the badge above to read our paper and view the code.
 
 [bdb]: https://www.kaggle.com/c/nfl-big-data-bowl-2021/
 [ngs]: https://nextgenstats.nfl.com/
