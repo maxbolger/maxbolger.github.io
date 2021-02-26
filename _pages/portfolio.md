@@ -25,7 +25,7 @@ My first [Streamlit](https://www.streamlit.io/) web app is an NFL receiver dashb
 
 ---
 
-## 2021 NFL Big Data Bowl Entry - *Lockdown Coverage and Ball Skills: A Tale of Two Cities*
+## 2021 NFL Big Data Bowl Entry - *Lockdown Coverage and Ball Skills: A Tale of Two Cities* **Honorable Mention!**
 
 [![View on Kaggle](https://img.shields.io/badge/Kaggle-View_on_Kaggle-blue?logo=Kaggle)](https://www.kaggle.com/mjegle/the-geometry-of-lockdown-coverage-and-ball-skills)
 
