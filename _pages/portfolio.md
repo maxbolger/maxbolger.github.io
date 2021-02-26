@@ -50,7 +50,7 @@ I teamed up with two friends to take on the 2021 NFL Big Data Bowl! We leveraged
 [<img align="left" alt="hu" width="200px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Fcheesebrowmusic.com%2Fwp-content%2Fuploads%2F2018%2F06%2Fsos-partner-logo-hamline-university_2x.png%3Fw%3D3840&f=1&nofb=1" />][hu]
 
 [hu]: https://www.hamline.edu/
-This is the case study for my application to the HUMAC data scientist role. We were given customer order and survey data from a Walmart+ pilot program and were to report anything we could find. I ran some EDA and created a multinomial logistic regression that classified a customers survey response given their order behavior.
+This is the case study for my application to the HUMAC data scientist role. We were given customer order and survey data from a Walmart+ pilot program and were to report anything we could find. I ran some EDA and created a multinomial logistic regression that classified a customer's survey response given their order behavior.
 <br>
 <center><img src="/assets/images/customer.png"></center>
 <br>
