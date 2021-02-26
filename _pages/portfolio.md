@@ -4,7 +4,7 @@ date:   2020-12-30
 permalink: /portfolio/
 ---
 ---
-## NFL Reiceiver Dashboard Using Streamlit
+## NFL Receiver Dashboard Using Streamlit
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maxbolger/nfl-receiver-dashboard)
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/maxbolger/nfl-receiver-dashboard/main/receiver-dashboard.py)
