@@ -1,6 +1,6 @@
 ---
 title:  "Resume"
-date:   2020-12-30
+date:   2021-06-17
 permalink: /portfolio/
 permalink: /resume/
 ---
