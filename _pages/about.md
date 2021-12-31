@@ -8,7 +8,7 @@ I am a junior standing undergrad at Hamline University pursuing a major in Compu
 
 ---
 
-Proficient with python and its data science libraries including pandas, numpy, matplotlib and seaborn, sci-kit learn, streamlit, and more.
+Proficient with python and its data science libraries including pandas, numpy, matplotlib and seaborn, scikit-learn, streamlit, and more.
 
 [<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 [<img align="left" alt="Pandas" width="60px" src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" />][pandas]
