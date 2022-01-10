@@ -4,7 +4,7 @@ date:   2020-12-30
 permalink: /about/
 ---
 
-I am a junior standing undergrad at Hamline University pursuing a major in Computational Data Science with minors in Business Analytics and Economics. [<img align="middle" alt="HU" width="40px" src="https://hamlineathletics.com/images/logos/site/site.png" />][HU]
+I am a senior standing undergrad at Hamline University pursuing a major in Computational Data Science with minors in Business Analytics and Economics. [<img align="middle" alt="HU" width="40px" src="https://hamlineathletics.com/images/logos/site/site.png" />][HU]
 
 ---
 
