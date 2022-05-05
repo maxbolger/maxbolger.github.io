@@ -12,7 +12,7 @@ feature_row1:
   - image_path: /assets/images/dashboard1.png
     alt: "hello"
     title: "WNBA Player Analysis App"
-    text: "In a series of GhostKitchen projects, I teamed up with another student to develop a Node.js app that supports CRUD operations for processing new orders for a restaurant chain. The app has 3 versions that differ in database used for backend - one version is based on SQLite, another on MongoDB and yet another on Redis."
+    text: "Streamlit app that leverages the results of my WNBA shot probability model and turns it into an interactive UI."
     url: "https://share.streamlit.io/maxbolger/wnba-player-analysis-app/main"
     btn_label: "Streamlit App"
     btn_class: "btn--primary"
@@ -27,7 +27,7 @@ feature_row2:
   - image_path: /assets/images/dashboard2.png
     alt: "wolrd"
     title: "Voting Classifier App"
-    text: "In a series of GhostKitchen projects, I teamed up with another student to develop a Node.js app that supports CRUD operations for processing new orders for a restaurant chain. The app has 3 versions that differ in database used for backend - one version is based on SQLite, another on MongoDB and yet another on Redis."
+    text: "Streamlit app that allows users to experiment with voting classifiers."
     url: "https://github.com/maxbolger/voting-classifier-app"
     btn_label: "Streamlit App"
     btn_class: "btn--primary"
