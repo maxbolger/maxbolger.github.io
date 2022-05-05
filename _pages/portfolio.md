@@ -25,9 +25,9 @@ feature_row1:
 
 feature_row2:
   - image_path: /assets/images/clf.png
-    alt: "wolrd"
+    alt: "Voting classifiers"
     title: "Voting Classifier App"
-    text: "Streamlit app that allows users to experiment with voting classifiers."
+    text: "Streamlit app that allows users to experiment with voting classifiers by using the Palmer Penguins data."
     url: "https://github.com/maxbolger/voting-classifier-app"
     btn_label: "Streamlit App"
     btn_class: "btn--primary"
@@ -42,7 +42,7 @@ feature_row3:
   - image_path: /assets/images/viz.gif
     alt: "Data Viz"
     title: "Advanced Data Visualizations"
-    text: "Advanced Data Visualizations using #TidyTuesday data"
+    text: "Advanced data visualizations created with matplotlib and seaborn using #TidyTuesday data"
     url: "https://github.com/maxbolger/CDS-5950-Data-Viz-Challenges"
     btn_label: "Data Viz Repo"
     btn_class: "btn--primary"
