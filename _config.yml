@@ -125,7 +125,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fab fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"  # "fab fa-linkedin"
       url: "https://www.linkedin.com/in/max-bolger/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
