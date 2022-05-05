@@ -109,7 +109,7 @@ author:
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "LinkedIn"
-      icon: "fab fa-linkedin"
+      icon: "  fab fa-linkedin"
       url: "https://www.linkedin.com/in/max-bolger/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
