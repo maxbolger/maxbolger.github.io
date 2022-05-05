@@ -22,12 +22,6 @@ feature_row1:
     url3: "https://github.com/maxbolger/CDS-5950-Capstone"
     btn_label3: "ML/Web Scraping Code"
     btn_class: "btn--primary"
-    tags:
-        - Python
-        - Streamlit
-        - Machine Learning
-        - Web Scraping
-        - WNBA
 
 feature_row2:
   - image_path: /assets/images/dashboard2.png
@@ -43,11 +37,6 @@ feature_row2:
     url3: "https://github.com/maxbolger/voting-classifier-app"
     btn_label3: "ML/Web Scraping Code"
     btn_class: "btn--primary"
-    tags:
-        - Python
-        - Streamlit
-        - Machine Learning
-        - Ensembling 
 ---
 
 {% include feature_row id="feature_row1" type="left" %}
