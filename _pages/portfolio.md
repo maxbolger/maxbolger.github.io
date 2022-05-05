@@ -7,9 +7,7 @@ classes: wide
 date: April 4, 2022
 
 feature_row0-1:
-<!--   - image_path: assets/gif/ghostkitchen.gif -->
-<!--     alt: "Node.js app demo" -->
-    title: "WNBA Player Analysis App"
+  - title: "WNBA Player Analysis App"
     text: "Test"
     url: "https://share.streamlit.io/maxbolger/wnba-player-analysis-app/main"
     btn_label: "Streamlit App"
