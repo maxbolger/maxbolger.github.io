@@ -1,10 +1,16 @@
 ---
-title:  "About"
-date:   2020-12-30
+layout: single
 permalink: /about/
+title: About
+author_profile: true
+header:
+    overlay_image: /assets/images/sky-line1.jpg
+classes: wide
+date: May 4, 2022
 ---
 
-I am a senior standing undergrad at Hamline University pursuing a major in Computational Data Science with minors in Business Analytics and Economics. [<img align="middle" alt="HU" width="40px" src="https://hamlineathletics.com/images/logos/site/site.png" />][HU]
+I graduated from Hamline University in 2022 with a major in Computational Data Science with minors in Business Analytics and Economics. I am currently working is a data scientist at Optum, Inc.
+[<img align="middle" alt="HU" width="40px" src="https://hamlineathletics.com/images/logos/site/site.png" />][HU]
 
 ---
 
@@ -19,9 +25,6 @@ Proficient with python and its data science libraries including pandas, numpy, m
 [<img align="middle" alt="streamlit" width="60px" src="https://assets.website-files.com/5dc3b47ddc6c0c2a1af74ad0/5e181828ba9f9e92b6ebc6e7_RGB_Logomark_Color_Light_Bg.png" />][streamlit]
 
 ---
-
-In my free time, I love to bet on sports <img align="middle" alt="cube" width="40px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fvignette4.wikia.nocookie.net%2Flogopedia%2Fimages%2F0%2F07%2FDraftkings.png%2Frevision%2Flatest%2Fscale-to-width-down%2F250%3Fcb%3D20150926012315&f=1&nofb=1" /> play kendama 
-<img align="middle" alt="cube" width="40px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fima-create.com%2Fassets%2Fimages%2Fproduct%2Fkendama.png&f=1&nofb=1" /> and solve rubik's cubes <img align="middle" alt="cube" width="40px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.pngpix.com%2Fwp-content%2Fuploads%2F2016%2F07%2FPNGPIX-COM-Rubiks-Cube-Transparent-PNG-Image.png&f=1&nofb=1g" />
 
 
 [HU]: https://www.hamline.edu/
