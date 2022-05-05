@@ -24,7 +24,7 @@ feature_row1:
     btn_class: "btn--primary"
 
 feature_row2:
-  - image_path: /assets/images/dashboard2.png
+  - image_path: /assets/images/clf.png
     alt: "wolrd"
     title: "Voting Classifier App"
     text: "Streamlit app that allows users to experiment with voting classifiers."
@@ -37,9 +37,20 @@ feature_row2:
     url3: "https://github.com/maxbolger/voting-classifier-app"
     btn_label3: "ML/Web Scraping Code"
     btn_class: "btn--primary"
+    
+feature_row3:
+  - image_path: /assets/images/viz.gif
+    alt: "Data Viz"
+    title: "Advanced Data Visualizations"
+    text: "Advanced Data Visualizations using #TidyTuesday data"
+    url: "https://github.com/maxbolger/CDS-5950-Data-Viz-Challenges"
+    btn_label: "Data Viz Repo"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="feature_row1" type="left" %}
 <a name="WNBA Project"></a>
 {% include feature_row id="feature_row2" type="left" %}
 <a name="Voting Classifier"></a>
+{% include feature_row id="feature_row3" type="left" %}
+<a name="Data Viz"></a>
