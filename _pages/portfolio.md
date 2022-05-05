@@ -9,8 +9,8 @@ classes: wide
 date: April 4, 2022
 
 feature_row1:
-  - image_path: /assets/images/dashboard1.png
-    alt: "hello"
+  - image_path: /assets/images/wnba.gif
+    alt: "WNBA app"
     title: "WNBA Player Analysis App"
     text: "Streamlit app that leverages the results of my WNBA shot probability model and turns it into an interactive UI."
     url: "https://share.streamlit.io/maxbolger/wnba-player-analysis-app/main"
