@@ -2,12 +2,14 @@
 layout: single
 title: "Portfolio"
 permalink: /portfolio/
+header:
+    overlay_image: /assets/images/sky-line1.jpg
 author_profile: true
 classes: wide
 date: April 4, 2022
 
 feature_row0-1:
-  - image_path: /assets/images/avatar.jpg
+  - image_path: /assets/images/dashboard1.png
     alt: "hello"
     title: "WNBA Player Analysis App"
     text: "helllllllllllllhjgdhjfghjfhjfghjl"
@@ -28,7 +30,7 @@ feature_row0-1:
         - WNBA
 
 feature_row0-2:
-  - image_path: /assets/images/avatar.jpg
+  - image_path: /assets/images/dashboard2.jpg
     alt: "wolrd"
     title: "Voting Classifier App"
     text: "helllllllllllllhjgdhjfghjfhjfghjl"
