@@ -45,14 +45,18 @@ feature_row3:
     btn_class: "btn--primary"
     
 feature_row4:
-  - title: "nflfastR Python Tutorial"
+  - image_path: /assets/images/nflfastr.png
+    alt: "nflfastR"
+    title: "nflfastR Python Tutorial"
     text: "Tutorial on how to analyze NFL play-by-play data (courtesy of [nflfastR](https://www.nflfastr.com/)) using python and its data science resources. Covers basic python syntax, exploratory data analysis (EDA), one-hot encoding, data visualization, creating a function, and more!"
     url: "https://github.com/maxbolger/nflfastR-Python-Tutorial"
     btn_label: "Tutorial Repo"
     btn_class: "btn--primary"
     
 feature_row5:
-  - title: "Sleeper API Python Tutorial"
+  - image_path: /assets/images/sleeper.png
+    alt: "Sleeper"
+    title: "Sleeper API Python Tutorial"
     text: "Tutorial on how to utilize the [Sleeper](https://sleeper.app) API to obtain data and run analyses on fantasy football leagues. Covers basic python syntax and utilizes multiple packages."
     url: "https://github.com/maxbolger/Sleeper-API-Tutorial"
     btn_label: "Tutorial Repo"
