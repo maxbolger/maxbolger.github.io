@@ -9,4 +9,6 @@ classes: wide
 date: May 4, 2022
 ---
 
+**Currently rebuilding resume**
+
 <center><img src="/assets/images/MaxBolgerResumePNG.png"></center>
