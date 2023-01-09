@@ -103,13 +103,13 @@ author:
   avatar           : "/assets/images/avatar1.jpg"
   bio              :  >- 
    Healthcare data scientist at Optum
-  location         : "St. Paul, Minnesota"
+  location         : "Minneapolis, Minnesota"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "LinkedIn"
-      icon: "  fab fa-linkedin"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/max-bolger/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
