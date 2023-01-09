@@ -6,11 +6,12 @@ author_profile: true
 header:
     overlay_image: /assets/images/sky-line1.jpg
 classes: wide
-date: May 4, 2022
+date: January 9, 2023
 ---
 
-I graduated from Hamline University in 2022 with a major in Computational Data Science and minors in Business Analytics and Economics. I am currently working as a data scientist at Optum, Inc.
-<!-- [<img align="middle" alt="HU" width="40px" src="https://hamlineathletics.com/images/logos/site/site.png" />][HU] -->
+I am data scientist with 3+ years of experience in developing, automating, and scaling machine learning models in fast-paced, technical environments. In 2022 I earned my B. Sc. in computational data science.
+
+I enjoy spending my free time with friends, playing guitar 🎸, golf ⛳, video games 🎮, solving Rubik's Cubes and other puzzles 🧩, betting on sports 🎲, and more!
 
 ---
 
