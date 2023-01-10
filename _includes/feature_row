@@ -53,7 +53,7 @@
             </div>
           {% endif %}
 
-          {% if f.url %}
+          {% if f.url and not f.url2 %}
             <p><a href="{{ f.url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
           {% endif %}
           
@@ -64,8 +64,12 @@
             </p>
           {% endif %}
 
-          {% if f.url3 %}
-            <p><a href="{{ f.url3 }}" class="btn {{ f.btn_class }}">{{ f.btn_label3 | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+          {% if f.url and f.url2 and f.url3 %}
+            <p>
+            <a href="{{ f.url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
+            <a href="{{ f.url2 }}" class="btn {{ f.btn_class }}">{{ f.btn_label2 | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
+            <a href="{{ f.url3 }}" class="btn {{ f.btn_class }}">{{ f.btn_label3 | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
+            </p>
           {% endif %}
           
           {% if f.tags %}
