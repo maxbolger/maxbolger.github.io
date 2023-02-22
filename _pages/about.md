@@ -23,7 +23,7 @@ Proficient in python and its data science libraries including data manipulation 
 [<img align="left" alt="Sci-Kit Learn" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" />][scikit]
 [<img align="left" alt="Matplotlib" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" />][matplotlib]
 [<img align="left" alt="Seaborn" width="60px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F315810%2F92254613-279c8000-ee9f-11ea-9b73-5622a7d95f3f.png&f=1&nofb=1" />][seaborn]
-[<img align="middle" alt="streamlit" width="60px" src="https://assets.website-files.com/5dc3b47ddc6c0c2a1af74ad0/5e181828ba9f9e92b6ebc6e7_RGB_Logomark_Color_Light_Bg.png" />][streamlit]
+[<img align="middle" alt="streamlit" width="60px" src="https://docs.streamlit.io/logo.svg" />][streamlit]
 
 ---
 
