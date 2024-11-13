@@ -102,7 +102,7 @@ author:
   name             : "Max Bolger"
   avatar           : "/assets/images/avatar1.jpg"
   bio              :  >- 
-   Healthcare data scientist at Optum
+   Healthcare Data Scientist
   location         : "Minneapolis, Minnesota"
   links:
     - label: "Website"
@@ -117,9 +117,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:mbolger01@hamline.edu"
-   # - label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
-     # url: "https://twitter.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
 
 # Site Footer
 footer:
@@ -130,9 +130,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/maxbolger/"
-  #  - label: "Twitter"
-   #   icon: "fab fa-fw fa-twitter-square"
-    #  url: "https://twitter.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
 
 
 # Reading Files
