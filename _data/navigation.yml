@@ -1,6 +1,4 @@
 main:
-  - title: "Home"
-    url: /index.html
   - title: "Portfolio"
     url: /portfolio/
   - title: "Resume"
