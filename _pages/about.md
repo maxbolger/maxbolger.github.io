@@ -9,9 +9,9 @@ classes: wide
 date: January 9, 2023
 ---
 
-I am data scientist with 3+ years of experience in developing, automating, and scaling machine learning models in fast-paced, technical environments. In 2022 I earned my B. Sc. in computational data science.
+I am data scientist with 4+ years of experience in developing, automating, and scaling machine learning models in fast-paced, technical environments.
 
-I enjoy spending my free time with friends, playing guitar 🎸, golf ⛳, video games 🎮, solving Rubik's Cubes and other puzzles 🧩, betting on sports 🎲, and more!
+I enjoy spending my free time with friends, playing guitar 🎸, betting on sports 🎲, video games 🎮, golf ⛳, solving Rubik's Cubes and other puzzles 🧩, and more!
 
 ---
 
