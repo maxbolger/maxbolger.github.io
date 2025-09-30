@@ -11,7 +11,7 @@ date: January 9, 2023
 
 I am data scientist with 5+ years of experience in developing, automating, and scaling machine learning models in fast-paced, technical environments.
 
-I enjoy spending my free time with friends, watching birds 🐦, playing guitar 🎸, betting on sports 🎲, video games 🎮, solving Rubik's Cubes and other puzzles 🧩, and more!
+I enjoy spending my free time watching birds 🐦, playing guitar 🎸, betting on sports 🎲, video games 🎮, solving Rubik's Cubes and other puzzles 🧩, and more!
 
 ---
 
